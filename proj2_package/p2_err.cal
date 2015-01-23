@@ -1,0 +1,8 @@
+program xyz is 
+begin
+  var a, b, c;
+  a = 2;
+  b = 3;
+  c = a + b div;
+  print c;
+end

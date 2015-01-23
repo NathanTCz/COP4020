@@ -1,0 +1,10 @@
+program xyz is 
+begin
+  var a, b;
+  a = 2;
+  b = 3;
+  var c;
+  c = a + b;
+  var a;
+  print c;
+end

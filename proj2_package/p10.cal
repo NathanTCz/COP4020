@@ -1,0 +1,12 @@
+program xyz is 
+begin
+  var a, b, c;
+  a = 20;
+  b = 3;
+
+  c = (a +(- b)) * 3 div (a div b) div 2;
+
+
+  print c;
+  print 10 -(-(-(- 20)))
+end

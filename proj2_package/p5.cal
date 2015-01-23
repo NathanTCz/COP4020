@@ -1,0 +1,10 @@
+program xyz is 
+begin
+  var a;
+  var b; 
+  var c;
+  a = 2;
+  b = 3;
+  c = (-a + b) * 3 div 2;
+  print c
+end

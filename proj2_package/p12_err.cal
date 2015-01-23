@@ -1,0 +1,5 @@
+program xyz is 
+begin
+  var a, b, c;
+  a = -2;
+end

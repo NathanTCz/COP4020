@@ -1,0 +1,81 @@
+#!/bin/sh
+
+echo "p0.cal"
+./run < p0.cal
+echo ""
+
+echo "p0_err.cal"
+./run < p0_err.cal
+echo ""
+
+echo "p1.cal"
+./run < p1.cal
+echo ""
+
+echo "p2_err.cal"
+./run < p2_err.cal
+echo ""
+
+echo "p3_err.cal"
+./run < p3_err.cal
+echo ""
+
+echo "p4_err.cal"
+./run < p4_err.cal
+echo ""
+
+echo "p5.cal"
+./run < p5.cal
+echo ""
+
+echo "p5_err.cal"
+./run < p5_err.cal
+echo ""
+
+echo "p6.cal"
+./run < p6.cal
+echo ""
+
+echo "p6_1.cal"
+./run < p6_1.cal
+echo ""
+
+echo "p6_err.cal"
+./run < p6_err.cal
+echo ""
+
+echo "p7_err.cal"
+./run < p7_err.cal
+echo ""
+
+echo "p8.cal"
+./run < p8_err.cal
+echo ""
+
+echo "p9_err.cal"
+./run < p9_err.cal
+echo ""
+
+echo "p10.cal"
+./run < p10.cal
+echo ""
+
+echo "p11.cal"
+./run < p11.cal
+echo ""
+
+echo "p12_err.cal"
+./run < p12_err.cal
+echo ""
+
+echo "p13.cal"
+./run < p13.cal
+echo ""
+
+echo "p14.cal"
+./run < p14.cal
+echo ""
+
+echo "p15_err.cal"
+./run < p15_err.cal
+echo ""

@@ -1,0 +1,4 @@
+program xyz is 
+begin
+  print 2*10 div (1+4);
+end

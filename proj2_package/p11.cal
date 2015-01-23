@@ -1,0 +1,5 @@
+program xyz is 
+begin
+  print 100 * (30 div 2 - 4 - (- 200 div ( - 3 ) * 400));
+  print 2*10 div (1+4)
+end
